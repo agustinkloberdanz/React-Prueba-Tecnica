@@ -7,12 +7,15 @@ main {
 }
 
 section {
-  display: flex;
+  margin-top: 10px;
+  text-align: center;
   align-items: center;
-  gap: 2rem;
 }
 
 section img {
-  height: 500px;
-  width: auto;
+  display: block;
+  height: auto;
+  width: 350px;
+  border-radius: 25%;
+
 }
